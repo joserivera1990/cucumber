@@ -1,0 +1,37 @@
+# Maven
+target/
+project/
+.classpath
+dependency-reduced-pom.xml
+META-INF/
+
+# Scala
+*.class
+
+# Mac
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Log
+.log
+*.log
+**/*.log
+
+# Developer details for Sparktacus
+.me
+*.me
+**/*.me
+
+# Ensime plugin
+.ensime
+.ensime_cache/
+
+# Ansible
+inventory/
+
+# Spark
+metastore_db/
